@@ -18,6 +18,10 @@ Make sure:
 - Height is set to **100**
 - the URL is set to the above **URL with your username**
 
+## Updating the Display
+
+You can use OBS' interact feature to refresh the page manually OR set the **Refresh browser when scene becomes active** property and switch scenes to update. Display will NOT update automatically upon finishing a game. Information is usually up to date during the VICTORY screen.
+
 ## Customization
 
 To hide an element on the display, go to the **Custom CSS** section of the properties and add the following line with the name of the element you wish to remove:
